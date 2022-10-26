@@ -1,0 +1,3 @@
+#ignore files with below names
+
+/9.txt
