@@ -1,5 +1,5 @@
 #"filetoignore" 
 
-/9.txt
-/10.txt
-testing/
+/6.txt
+# /10.txt
+# testing/
